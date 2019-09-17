@@ -1,0 +1,4 @@
+1) 
+home, gallary, courses, contact us, about us : DONE !
+2) 
+faculty resources, college update, admission, placement : DONE !
